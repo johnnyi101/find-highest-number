@@ -63,4 +63,18 @@ public class NumberCruncherTest {
         assertEquals(expectedResult, result);
     }
 
+    @Test
+    public void if_list_contains_negatives_and_positive_the_highest_should_be_shown() {
+        //arrange
+        int input[] = {4,5,-8,3,11,-21,6};
+        int expectedResult = 11;
+        NumberCruncher cut = new NumberCruncher();
+
+        //act
+        int result = cut.findHighestNumber(input);
+
+        //assert
+        assertEquals(expectedResult, result);
+
+    }
 }
