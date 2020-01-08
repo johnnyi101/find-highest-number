@@ -28,7 +28,7 @@ public class NumberCruncherTest {
         NumberCruncher cut = new NumberCruncher();
 
         //act
-        int result = cut.highestNumber(input);
+        int result = cut.findHighestNumber(input);
 
         //assert
         assertEquals(expectedResult, result);

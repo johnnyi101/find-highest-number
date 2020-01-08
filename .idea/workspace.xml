@@ -37,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="JUnit.NumberCruncherTest.if_input_were_7_13_output_should_be_13">
+  <component name="RunManager" selected="JUnit.NumberCruncherTest">
     <configuration name="NumberCruncherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="find-highest-number" />
       <extension name="coverage">
@@ -71,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NumberCruncherTest.if_input_were_7_13_output_should_be_13" />
         <item itemvalue="JUnit.NumberCruncherTest" />
+        <item itemvalue="JUnit.NumberCruncherTest.if_input_were_7_13_output_should_be_13" />
       </list>
     </recent_temporary>
   </component>
@@ -102,22 +102,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1578480737336">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1578481619554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578480737336" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1578480737335">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481619554" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1578481619553">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578480737335" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1578480737335">
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481619553" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1578481619553">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578480737335" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1578480737335">
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481619553" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1578481619553">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578480737335" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1578481619553" />
     <state x="141" y="135" key="SettingsEditor" timestamp="1578477789454">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
