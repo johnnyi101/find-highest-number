@@ -48,4 +48,19 @@ public class NumberCruncherTest {
         assertEquals(expectedResult, result);
 
     }
+
+    @Test
+    public void if_several_highest_numbers_are_equal_only_one_should_return() {
+        //arrange
+        int input[] = {7, 13, 16, 16, 4, 5, 6, 8};
+        int expectedResult = 16;
+        NumberCruncher cut = new NumberCruncher();
+
+        //act
+        int result = cut.findHighestNumber(input);
+
+        //assert
+        assertEquals(expectedResult, result);
+    }
+
 }
